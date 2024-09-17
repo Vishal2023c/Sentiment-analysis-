@@ -1,0 +1,2 @@
+text,positive,negative,neutral,compound,sentiment
+good bad,0.453,0.547,0.0,0.42,Neutral

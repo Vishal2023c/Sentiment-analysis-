@@ -1,0 +1,2 @@
+text,positive,negative,neutral,compound,sentiment
+good,1.0,0.0,0.0,0.72,Positive

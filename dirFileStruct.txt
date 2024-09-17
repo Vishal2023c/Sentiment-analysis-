@@ -1,0 +1,11 @@
+Streamlit-Sentiment-Negation-Analytics/
+│
+├── env/                     # Virtual environment directory
+│
+├── feedback/                # Feedback data directory
+│
+├── .gitignore               # Git ignore file
+├── app.py                   # Main application script
+├── app_streamlit.py         # Streamlit application script
+├── dirFileStruct.txt        # Directory structure representation file
+└── requirements.txt         # Python dependencies file

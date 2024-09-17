@@ -1,0 +1,7 @@
+text,positive,negative,neutral,compound,sentiment
+,0.0,0.0,0.0,0.5,Neutral
+njklg yufyu ygyuu,0.0,0.0,1.0,0.5,Neutral
+good,1.0,0.0,0.0,0.72,Positive
+good,1.0,0.0,0.0,0.72,Positive
+good bad,0.453,0.547,0.0,0.42,Neutral
+good bad,0.453,0.547,0.0,0.42,Neutral
